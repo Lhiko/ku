@@ -1,6 +1,7 @@
 # GroceryStore
 begin
 #把内容输入到一个文件
+
 echo "xxxx" > xxxx 
 #把工作空间的某个文件添加到 cache
 git add  xxxx
